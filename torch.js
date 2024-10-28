@@ -1,4 +1,3 @@
-import QRCode from 'qrcode'
 
 function makeid(length) {
   let result = '';
